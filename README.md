@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
 **Bi‐directional Hashlock/Timelock Atomic Swap** between Ethereum (Sepolia) and Tron (Nile).
 
-TwinLock enables two parties to swap assets—ERC-20 tokens on Ethereum for native TRX on Tron without intermediaries or custodians, using cryptographic hashlocks and timelocks.# TwinLock 🔒🔗
+TwinLock enables two parties to swap assets ERC-20 tokens on Ethereum for native TRX on Tron without intermediaries or custodians, using cryptographic hashlocks and timelocks.# TwinLock 🔒🔗
 
   
 **Bi-directional Hashlock/Timelock Atomic Swap** between Ethereum (Sepolia) and Tron (Nile)
