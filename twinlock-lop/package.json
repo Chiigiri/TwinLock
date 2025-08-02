@@ -1,0 +1,16 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^2.26.1"
+  },
+  "dependencies": {
+    "@1inch/limit-order-protocol-utils": "^4.0.1",
+    "@1inch/solidity-utils": "^6.6.0",
+    "@openzeppelin/contracts": "^4.9.6",
+    "dotenv": "^17.2.1",
+    "ethers": "^6.15.0",
+    "readline-sync": "^1.4.10",
+    "tronweb": "^6.0.4"
+  }
+}
